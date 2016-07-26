@@ -6,11 +6,11 @@
     * [Equipo](#equipo)
         * [Profesores](#profesor)
         * [Ayudantes](#ayudantes)
-    * [Descripción del curso](#descripcion-del-curso)
+    * [Descripción del curso](#descripción-del-curso)
     * [Objetivos](#objetivos)
     * [Contenidos](#contenidos)
-    * [Evaluación](#evaluacion)
-* [Politica de integridad academica](#politica-de-integridad-academica)
+    * [Evaluación](#evaluación)
+* [Política de integridad académica](#política-de-integridad-académica)
 
 ---
 
@@ -39,7 +39,7 @@ La página de [Issues](https://github.com/IIC2113-2016-2/syllabus/issues) se uti
 | Sebastián Salata      | [@sasalatart](https://github.com/sasalatart) | [sasalata@uc.cl](mailto:) |
 
 
-## Descripcion del curso
+## Descripción del curso
 
 **TODO**
 
@@ -72,7 +72,7 @@ La página de [Issues](https://github.com/IIC2113-2016-2/syllabus/issues) se uti
 * Métodos formales
 * Ingeniería reversa
 
-## Evaluacion
+## Evaluación
 
 ![nota](./media/nota.png)
 
@@ -116,7 +116,7 @@ El curso contará con un examen (`E`) obligatorio.
 
 **La fecha del examen es el día 25 de Noviembre, a las 8:30.**
 
-# Politica de integridad academica
+# Política de integridad académica
 
 Los alumnos de la Escuela de Ingeniería de la Pontificia Universidad Católica de Chile deben mantener un comportamiento acorde a la Declaración de Principios de la Universidad.  En particular, se espera que **mantengan altos estándares de honestidad académica**.  Cualquier acto deshonesto o fraude académico está prohibido; los alumnos que incurran en este tipo de acciones se exponen a un Procedimiento Sumario. Es responsabilidad de cada alumno conocer y respetar el documento sobre Integridad Académica publicado por la Dirección de Docencia de la Escuela de Ingeniería (disponible en SIDING).
 
