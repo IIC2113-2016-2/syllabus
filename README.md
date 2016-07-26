@@ -18,9 +18,9 @@
 
 # Foro
 
-La página de [Issues](https://github.com/IIC2113-2016-2/syllabus/issues) se utilizará como foro para preguntas.
+La página de [_issues_](https://github.com/IIC2113-2016-2/syllabus/issues) se utilizará como foro para preguntas.
 
-> Si no lo has usado antes, revisa [este post](
+> Si no lo has usado antes, revisa [este _issue_](
   https://github.com/IIC2113-2016-2/syllabus/issues/1).
 
 # Extracto del programa del curso
@@ -69,10 +69,10 @@ Sebastián Salata | [@sasalatart] | [sasalata@uc.cl](mailto:)
 - Diseño detallado aplicado a componentes
   - Patrones de diseño
   - _Frameworks_
-- Testing y refactoring
-  - Técnicas de testing
-  - _Code Smells_
-  - Técnicas de refactoring
+- _Testing_ y _refactoring_
+  - Técnicas de _testing_
+  - _Code smells_
+  - Técnicas de _refactoring_
   - Métricas de calidad de código
 - Métodos formales
 - Ingeniería reversa
