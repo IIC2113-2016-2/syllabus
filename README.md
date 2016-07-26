@@ -26,18 +26,22 @@ La página de [Issues](https://github.com/IIC2113-2016-2/syllabus/issues) se uti
 
 ### Profesor
 
-| Nombre               | Sección | Github        |  Email         |
-|:-------------------- |:--------|:--------------| :--------------|
-| Rodrigo Saffie       | 1       | [@rasaffie](https://github.com/rasaffie)       | [rasaffie@uc.cl](mailto:) |
+Nombre         | Sección | Github      | Email
+-------------- | ------- | ----------- | -------------------------
+Rodrigo Saffie | 1       | [@rasaffie] | [rasaffie@uc.cl](mailto:)
 
 ### Ayudantes
 
-| Nombre                | Github        | Email         |
-|:--------------------- |:--------------|:--------------|
-| Nebil Kawas           | [@nkawasg](https://github.com/nkawasg) | [nakawas@uc.cl](mailto:) |
-| Patricio López        | [@mrpatiwi](https://github.com/mrpatiwi) | [pelopez2@uc.cl](mailto:) |
-| Sebastián Salata      | [@sasalatart](https://github.com/sasalatart) | [sasalata@uc.cl](mailto:) |
+Nombre           | Github        | Email
+---------------- | ------------- | -------------------------
+Nebil Kawas      | [@nkawasg]    | [nakawas@uc.cl](mailto:)
+Patricio López   | [@mrpatiwi]   | [pelopez2@uc.cl](mailto:)
+Sebastián Salata | [@sasalatart] | [sasalata@uc.cl](mailto:)
 
+[@rasaffie]:   https://github.com/rasaffie
+[@nkawasg]:    https://github.com/nkawasg
+[@mrpatiwi]:   https://github.com/mrpatiwi
+[@sasalatart]: https://github.com/sasalatart
 
 ## Descripción del curso
 
@@ -86,29 +90,29 @@ Los alumnos del curso deberá realizar 2 presentaciones (`P`) sobre distintos te
 
 Las presentaciones serán en horario de clases, en las siguientes fechas:
 
-| Presentación   | ¿Cuándo?       |
-| :------------- | :------------- |
-| Presentación \#1       | jueves 13 de octubre       |
-| Presentación \#2       | martes 08 de noviembre       |
+Presentación     | ¿Cuándo?
+---------------- | ----------------------
+Presentación \#1 | jueves 13 de octubre
+Presentación \#2 | martes 08 de noviembre
 
 ### Tareas
 
 El curso contará con 3 tareas (`T`) a lo largo del semestre. Las fechas de publicación de los enunciados y entrega de las tareas son:
 
-| Tarea          | Publicación    | Entrega     |
-| :------------- | :------------- | :-----------|
-| Tarea \#1       | jueves 18 de agosto | viernes 02 de septiembre |
-| Tarea \#2       | jueves 15 de septiembre | viernes 30 de septiembre |
-| Tarea \#3       | jueves 20 de octubre | viernes 04 de noviembre |
+Tarea     | Publicación             | Entrega
+--------- | ----------------------- | ------------------------
+Tarea \#1 | jueves 18 de agosto     | viernes 02 de septiembre
+Tarea \#2 | jueves 15 de septiembre | viernes 30 de septiembre
+Tarea \#3 | jueves 20 de octubre    | viernes 04 de noviembre
 
 ### Interrogaciones
 
 El curso contará con 2 interrogaciones (`I`) a lo largo del semestre. Estas serán en horario de clases en las siguientes fechas:
 
-| Interrogación   | ¿Cuándo?       |
-| :------------- | :------------- |
-| Interrogación \#1       | martes 13 de septiembre       |
-| Interrogación \#2       | martes 18 de octubre       |
+Interrogación     | ¿Cuándo?
+----------------- | -----------------------
+Interrogación \#1 | martes 13 de septiembre
+Interrogación \#2 | martes 18 de octubre
 
 ### Examen
 
