@@ -30,21 +30,26 @@ La página de [_issues_](https://github.com/IIC2113-2016-2/syllabus/issues) se u
 ### Profesor
 
 Nombre         | Sección | Github      | Email
--------------- | ------- | ----------- | -------------------------
-Rodrigo Saffie | 1       | [@rasaffie] | [rasaffie@uc.cl](mailto:)
+-------------- | ------- | ----------- | ----------------
+Rodrigo Saffie | 1       | [@rasaffie] | [rasaffie@uc.cl]
 
 ### Ayudantes
 
 Nombre           | Github        | Email
----------------- | ------------- | -------------------------
-Nebil Kawas      | [@nkawasg]    | [nakawas@uc.cl](mailto:)
-Patricio López   | [@mrpatiwi]   | [pelopez2@uc.cl](mailto:)
-Sebastián Salata | [@sasalatart] | [sasalata@uc.cl](mailto:)
+---------------- | ------------- | ----------------
+Nebil Kawas      | [@nkawasg]    | [nakawas@uc.cl]
+Patricio López   | [@mrpatiwi]   | [pelopez2@uc.cl]
+Sebastián Salata | [@sasalatart] | [sasalata@uc.cl]
 
 [@rasaffie]:   https://github.com/rasaffie
 [@nkawasg]:    https://github.com/nkawasg
 [@mrpatiwi]:   https://github.com/mrpatiwi
 [@sasalatart]: https://github.com/sasalatart
+
+[rasaffie@uc.cl]: mailto:rasaffie@uc.cl
+[nakawas@uc.cl]:  mailto:nakawas@uc.cl
+[pelopez2@uc.cl]: mailto:pelopez2@uc.cl
+[sasalata@uc.cl]: mailto:sasalata@uc.cl
 
 ## Descripción del curso
 
