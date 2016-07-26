@@ -88,8 +88,8 @@ Las presentaciones serán en horario de clases, en las siguientes fechas:
 
 | Presentación   | ¿Cuándo?       |
 | :------------- | :------------- |
-| Presentación 1       | jueves 13 de octubre       |
-| Presentación 2       | martes 08 de noviembre       |
+| Presentación \#1       | jueves 13 de octubre       |
+| Presentación \#2       | martes 08 de noviembre       |
 
 ### Tareas
 
@@ -97,9 +97,9 @@ El curso contará con 3 tareas (`T`) a lo largo del semestre. Las fechas de publ
 
 | Tarea          | Publicación    | Entrega     |
 | :------------- | :------------- | :-----------|
-| Tarea 1       | jueves 18 de agosto | viernes 02 de septiembre |
-| Tarea 2       | jueves 15 de septiembre | viernes 30 de septiembre |
-| Tarea 3       | jueves 20 de octubre | viernes 04 de noviembre |
+| Tarea \#1       | jueves 18 de agosto | viernes 02 de septiembre |
+| Tarea \#2       | jueves 15 de septiembre | viernes 30 de septiembre |
+| Tarea \#3       | jueves 20 de octubre | viernes 04 de noviembre |
 
 ### Interrogaciones
 
@@ -107,8 +107,8 @@ El curso contará con 2 interrogaciones (`I`) a lo largo del semestre. Estas ser
 
 | Interrogación   | ¿Cuándo?       |
 | :------------- | :------------- |
-| Interrogación 1       | martes 13 de septiembre       |
-| Interrogación 2       | martes 18 de octubre       |
+| Interrogación \#1       | martes 13 de septiembre       |
+| Interrogación \#2       | martes 18 de octubre       |
 
 ### Examen
 
