@@ -34,9 +34,9 @@ La página de [Issues](https://github.com/IIC2113-2016-2/syllabus/issues) se uti
 
 | Nombre                | Github        | Email         |
 |:--------------------- |:--------------|:--------------|
-| Nebil Kawas           | [@nkawasg](https://github.com/nkawasg) | [nkawasg@uc.cl](mailto:) |
+| Nebil Kawas           | [@nkawasg](https://github.com/nkawasg) | [nakawas@uc.cl](mailto:) |
 | Patricio López        | [@mrpatiwi](https://github.com/mrpatiwi) | [pelopez2@uc.cl](mailto:) |
-| Sebastián Salata      | [@sasalatart](https://github.com/sasalatart) | [sasalatart@uc.cl](mailto:) |
+| Sebastián Salata      | [@sasalatart](https://github.com/sasalatart) | [sasalata@uc.cl](mailto:) |
 
 
 ## Descripcion del curso
