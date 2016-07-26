@@ -18,6 +18,8 @@
 
 La página de [Issues](https://github.com/IIC2113-2016-2/syllabus/issues) se utilizará como foro para preguntas.
 
+> Si no lo has usado antes, revisa [este post]( https://github.com/IIC2113-2016-2/syllabus/issues/1).
+
 # Extracto del programa del curso
 
 ## Equipo
