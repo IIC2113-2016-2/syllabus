@@ -1,5 +1,5 @@
 
-# IIC2113 - Diseño Detallado de Software
+# IIC2113 — Diseño Detallado de Software
 
 ## Tabla de contenidos
 
@@ -21,13 +21,13 @@
 
 ### Profesor
 
-Nombre         | Sección | Github      | Email
+Nombre         | Sección | GitHub      | Email
 -------------- | ------- | ----------- | ----------------
 Rodrigo Saffie | 1       | [@rasaffie] | [rasaffie@ing.puc.cl]
 
 ### Ayudantes
 
-Nombre           | Github        | Email
+Nombre           | GitHub        | Email
 ---------------- | ------------- | ----------------
 Nebil Kawas      | [@nkawasg]    | [nakawas@uc.cl]
 Patricio López   | [@mrpatiwi]   | [pelopez2@uc.cl]
