@@ -3,25 +3,17 @@
 
 ## Tabla de contenidos
 
-- [Foro](#foro)
 - [Extracto del programa del curso](#extracto-del-programa-del-curso)
   - [Equipo](#equipo)
     - [Profesores](#profesor)
     - [Ayudantes](#ayudantes)
-  - [Descripción del curso](#descripción-del-curso)
   - [Objetivos](#objetivos)
   - [Contenidos](#contenidos)
   - [Evaluación](#evaluación)
+- [Foro](#foro)
 - [Política de integridad académica](#política-de-integridad-académica)
 
 ---
-
-# Foro
-
-La página de [_issues_](https://github.com/IIC2113-2016-2/syllabus/issues) se utilizará como foro para preguntas.
-
-> Si no lo has usado antes, revisa [este _issue_](
-  https://github.com/IIC2113-2016-2/syllabus/issues/1).
 
 # Extracto del programa del curso
 
@@ -84,8 +76,6 @@ Sebastián Salata | [@sasalatart] | [sasalata@uc.cl]
 
 ## Evaluación
 
-![nota](./media/nota.png)
-
 ### Controles
 
 El curso contará con controles (`C`) periódicos sobre los contenidos del curso y/o lecturas.
@@ -125,6 +115,15 @@ Interrogación \#2 | martes 18 de octubre
 El curso contará con un examen (`E`) obligatorio.
 
 **La fecha del examen es el viernes 25 de noviembre, a las 08:30.**
+
+![nota](./media/nota.png)
+
+# Foro
+
+La página de [_issues_](https://github.com/IIC2113-2016-2/syllabus/issues) se utilizará como foro para preguntas.
+
+> Si no lo has usado antes, revisa [este _issue_](
+  https://github.com/IIC2113-2016-2/syllabus/issues/1).
 
 # Política de integridad académica
 
