@@ -23,7 +23,7 @@
 
 Nombre         | Sección | Github      | Email
 -------------- | ------- | ----------- | ----------------
-Rodrigo Saffie | 1       | [@rasaffie] | [rasaffie@uc.cl]
+Rodrigo Saffie | 1       | [@rasaffie] | [rasaffie@ing.puc.cl]
 
 ### Ayudantes
 
@@ -38,7 +38,7 @@ Sebastián Salata | [@sasalatart] | [sasalata@uc.cl]
 [@mrpatiwi]:   https://github.com/mrpatiwi
 [@sasalatart]: https://github.com/sasalatart
 
-[rasaffie@uc.cl]: mailto:rasaffie@uc.cl
+[rasaffie@ing.puc.cl]: mailto:rasaffie@ing.puc.cl
 [nakawas@uc.cl]:  mailto:nakawas@uc.cl
 [pelopez2@uc.cl]: mailto:pelopez2@uc.cl
 [sasalata@uc.cl]: mailto:sasalata@uc.cl
@@ -137,6 +137,6 @@ Por _copia_ se entiende incluir en el trabajo presentado como propio, partes hec
 
 Obviamente, está permitido usar material disponible públicamente, por ejemplo, libros o contenidos tomados de Internet, siempre y cuando se incluya la referencia correspondiente.
 
-Lo anterior se entiende como complemento al [Reglamento del Alumno] de la Pontificia Universidad Católica de Chile.  Por ello, es posible pedir a la Universidad la aplicación de sanciones adicionales especificadas en dicho reglamento.
+Lo anterior se entiende como complemento al [Reglamento del Alumno de la Pontificia Universidad Católica de Chile].  Por ello, es posible pedir a la Universidad la aplicación de sanciones adicionales especificadas en dicho reglamento.
 
-[reglamento del alumno]: http://admisionyregistros.uc.cl/alumnos/informacion-academica/reglamentos-estudiantiles
+[Reglamento del Alumno de la Pontificia Universidad Católica de Chile]: http://admisionyregistros.uc.cl/alumnos/informacion-academica/reglamentos-estudiantiles
