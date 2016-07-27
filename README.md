@@ -22,7 +22,7 @@
 ### Profesor
 
 Nombre         | Sección | GitHub      | Email
--------------- | ------- | ----------- | ----------------
+-------------- | ------- | ----------- | ---------------------
 Rodrigo Saffie | 1       | [@rasaffie] | [rasaffie@ing.puc.cl]
 
 ### Ayudantes
@@ -39,9 +39,9 @@ Sebastián Salata | [@sasalatart] | [sasalata@uc.cl]
 [@sasalatart]: https://github.com/sasalatart
 
 [rasaffie@ing.puc.cl]: mailto:rasaffie@ing.puc.cl
-[nakawas@uc.cl]:  mailto:nakawas@uc.cl
-[pelopez2@uc.cl]: mailto:pelopez2@uc.cl
-[sasalata@uc.cl]: mailto:sasalata@uc.cl
+[nakawas@uc.cl]:       mailto:nakawas@uc.cl
+[pelopez2@uc.cl]:      mailto:pelopez2@uc.cl
+[sasalata@uc.cl]:      mailto:sasalata@uc.cl
 
 ## Objetivos
 - Realizar diseño y programación orientados a objetos con pericia
@@ -74,11 +74,11 @@ Sebastián Salata | [@sasalatart] | [sasalata@uc.cl]
 
 ### Controles
 
-El curso contará con controles (*C*) periódicos sobre los contenidos del curso y/o lecturas.
+El curso contará con controles (_C_) periódicos sobre los contenidos del curso y/o lecturas.
 
 ### Presentaciones
 
-Los alumnos del curso deberá realizar 2 presentaciones (*P*) sobre distintos temas relacionados con los contenidos del curso. Los temas a investigar serán anunciados con anticipación.
+Los alumnos del curso deberá realizar 2 presentaciones (_P_) sobre distintos temas relacionados con los contenidos del curso. Los temas a investigar serán anunciados con anticipación.
 
 Las presentaciones serán en horario de clases, en las siguientes fechas:
 
@@ -89,7 +89,7 @@ Presentación \#2 | martes 08 de noviembre
 
 ### Tareas
 
-El curso contará con 3 tareas (*T*) a lo largo del semestre. Las fechas de publicación de los enunciados y entrega de las tareas son:
+El curso contará con 3 tareas (_T_) a lo largo del semestre. Las fechas de publicación de los enunciados y entrega de las tareas son:
 
 Tarea     | Publicación             | Entrega
 --------- | ----------------------- | ------------------------
@@ -99,7 +99,7 @@ Tarea \#3 | jueves 20 de octubre    | viernes 04 de noviembre
 
 ### Interrogaciones
 
-El curso contará con 2 interrogaciones (*I*) a lo largo del semestre. Estas serán en horario de clases en las siguientes fechas:
+El curso contará con 2 interrogaciones (_I_) a lo largo del semestre. Estas serán en horario de clases en las siguientes fechas:
 
 Interrogación     | ¿Cuándo?
 ----------------- | -----------------------
@@ -108,7 +108,7 @@ Interrogación \#2 | martes 18 de octubre
 
 ### Examen
 
-El curso contará con un examen (*E*) obligatorio.
+El curso contará con un examen (_E_) obligatorio.
 
 **La fecha del examen es el viernes 25 de noviembre, a las 08:30.**
 
