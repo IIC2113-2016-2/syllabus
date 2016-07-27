@@ -5,7 +5,7 @@
 
 - [Extracto del programa del curso](#extracto-del-programa-del-curso)
   - [Equipo](#equipo)
-    - [Profesores](#profesor)
+    - [Profesor](#profesor)
     - [Ayudantes](#ayudantes)
   - [Objetivos](#objetivos)
   - [Contenidos](#contenidos)
@@ -42,10 +42,6 @@ Sebastián Salata | [@sasalatart] | [sasalata@uc.cl]
 [nakawas@uc.cl]:  mailto:nakawas@uc.cl
 [pelopez2@uc.cl]: mailto:pelopez2@uc.cl
 [sasalata@uc.cl]: mailto:sasalata@uc.cl
-
-## Descripción del curso
-
-**TODO**
 
 ## Objetivos
 - Realizar diseño y programación orientados a objetos con pericia
