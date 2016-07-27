@@ -78,11 +78,11 @@ Sebastián Salata | [@sasalatart] | [sasalata@uc.cl]
 
 ### Controles
 
-El curso contará con controles (`C`) periódicos sobre los contenidos del curso y/o lecturas.
+El curso contará con controles (*C*) periódicos sobre los contenidos del curso y/o lecturas.
 
 ### Presentaciones
 
-Los alumnos del curso deberá realizar 2 presentaciones (`P`) sobre distintos temas relacionados con los contenidos del curso. Los temas a investigar serán anunciados con anticipación.
+Los alumnos del curso deberá realizar 2 presentaciones (*P*) sobre distintos temas relacionados con los contenidos del curso. Los temas a investigar serán anunciados con anticipación.
 
 Las presentaciones serán en horario de clases, en las siguientes fechas:
 
@@ -93,7 +93,7 @@ Presentación \#2 | martes 08 de noviembre
 
 ### Tareas
 
-El curso contará con 3 tareas (`T`) a lo largo del semestre. Las fechas de publicación de los enunciados y entrega de las tareas son:
+El curso contará con 3 tareas (*T*) a lo largo del semestre. Las fechas de publicación de los enunciados y entrega de las tareas son:
 
 Tarea     | Publicación             | Entrega
 --------- | ----------------------- | ------------------------
@@ -103,7 +103,7 @@ Tarea \#3 | jueves 20 de octubre    | viernes 04 de noviembre
 
 ### Interrogaciones
 
-El curso contará con 2 interrogaciones (`I`) a lo largo del semestre. Estas serán en horario de clases en las siguientes fechas:
+El curso contará con 2 interrogaciones (*I*) a lo largo del semestre. Estas serán en horario de clases en las siguientes fechas:
 
 Interrogación     | ¿Cuándo?
 ----------------- | -----------------------
@@ -112,7 +112,7 @@ Interrogación \#2 | martes 18 de octubre
 
 ### Examen
 
-El curso contará con un examen (`E`) obligatorio.
+El curso contará con un examen (*E*) obligatorio.
 
 **La fecha del examen es el viernes 25 de noviembre, a las 08:30.**
 
