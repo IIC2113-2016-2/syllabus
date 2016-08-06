@@ -112,7 +112,7 @@ El curso contará con un examen (_E_) obligatorio.
 
 **La fecha del examen es el viernes 25 de noviembre, a las 08:30.**
 
-![nota](./media/nota.png)
+![nota](./Media/nota.png)
 
 # Foro
 
