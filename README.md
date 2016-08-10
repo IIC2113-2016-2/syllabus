@@ -67,7 +67,6 @@ Sebastián Salata | [@sasalatart] | [sasalata@uc.cl]
   - _Code smells_
   - Técnicas de _refactoring_
   - Métricas de calidad de código
-- Métodos formales
 - Ingeniería reversa
 
 ## Evaluación
