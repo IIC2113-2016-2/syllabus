@@ -1,0 +1,120 @@
+{
+  "codename": "IIC2113",
+  "year": "2016",
+  "semester": "2",
+  "name": "Diseño Detallado de Software",
+  "prerequisites": ["IIC2143"],
+  "professor": {
+    "full_name": "Rodrigo Saffie",
+    "email": "rasaffie@ing.puc.cl",
+    "github": "rasaffie"
+  },
+  "teaching_assistants": [
+    {
+      "full_name": "Nebil Kawas",
+      "email": "nakawas@uc.cl",
+      "github": "nkawasg"
+    }, {
+      "full_name": "Patricio López",
+      "email": "pelopez2@uc.cl",
+      "github": "mrpatiwi"
+    }, {
+      "full_name": "Sebastián Salata",
+      "email": "sasalata@uc.cl",
+      "github": "sasalatart"
+    }
+  ],
+  "objectives": [
+    "Realizar diseño y programación orientados a objetos con pericia",
+    "Evaluar la calidad de un diseño, utilizando criterios teóricos y prácticos",
+    "Analizar software para mejorar su eficiencia, confiabilidad, y mantenibilidad",
+    "Usar patrones de diseño en el diseño de software"
+  ],
+  "evaluations": [
+    {
+      "name": "Controles",
+      "description": "El curso contará con controles (C) periódicos sobre los contenidos del curso y/o lecturas."
+    }, {
+      "name": "Presentaciones",
+      "description": "Los alumnos del curso deberá realizar 2 presentaciones (P) sobre distintos temas relacionados con los contenidos del curso. Los temas a investigar serán anunciados con anticipación.",
+      "instances": [
+        {
+          "name": "Presentación #1",
+          "due_date": "jueves 13 de octubre",
+          "due_hour": "11:30"
+        }, {
+          "name": "Presentación #2",
+          "due_date": "martes 08 de noviembre",
+          "due_hour": "11:30"
+        }
+      ]
+    }, {
+      "name": "Tareas",
+      "description": "El curso contará con 3 tareas (T) a lo largo del semestre.",
+      "instances": [
+        {
+          "name": "Tarea #1",
+          "publication_date": "jueves 25 de agosto",
+          "due_date": "viernes 09 de septiembre",
+          "due_hour": "23:59"
+        }, {
+          "name": "Tarea #2",
+          "publication_date": "jueves 22 de septiembre",
+          "due_date": "viernes 07 de octubre",
+          "due_hour": "23:59"
+        }, {
+          "name": "Tarea #3",
+          "publication_date": "jueves 27 de octubre",
+          "due_date": "viernes 11 de noviembre",
+          "due_hour": "23:59"
+        }
+      ]
+    }, {
+      "name": "Interrogaciones",
+      "description": "El curso contará con 2 interrogaciones (I) a lo largo del semestre.",
+      "instances": [
+        {
+          "name": "Interrogación #1",
+          "due_date": "martes 13 de septiembre",
+          "due_hour": "11:30"
+        }, {
+          "name": "Interrogación #2",
+          "due_date": "martes 18 de octubre",
+          "due_hour": "11:30"
+        }
+      ]
+    }, {
+      "name": "Examen",
+      "description": "El curso contará con un examen (E) obligatorio.",
+      "instances": [
+        {
+          "name": "Examen",
+          "due_date": "viernes 25 de noviembre",
+          "due_hour": "8:30"
+        }
+      ]
+    }
+  ],
+  "grading": {
+    "formula": "Nf'=0.15*C+0.15*P+0.30*T+0.20*I+0.20*E",
+    "conditions": [
+      "T>=3.95",
+      "E>=3.95",
+      "Nf'>=3.95"
+    ]
+  },
+  "bibliography": {
+    "books": [
+      {
+        "author": "Fowler, M., et al.",
+        "title": "Patterns of entreprise Application Architecture",
+        "publisher": "Addison-Wesley Professional; 1 edition (2003)"
+      },
+      {
+        "author": "Fowler, M., et al.",
+        "title": "Refactoring: Improving the Design of Existing Code",
+        "publisher": "Addison-Wesley Professional; 1 edition (2000)"
+      }
+    ]
+  }
+}
