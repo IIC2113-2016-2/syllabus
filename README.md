@@ -92,7 +92,7 @@ El curso contará con 3 tareas (_T_) a lo largo del semestre. Las fechas de publ
 
 Tarea     | Publicación             | Entrega
 --------- | ----------------------- | ------------------------
-Tarea \#1 | jueves 25 de agosto     | viernes 09 de septiembre
+Tarea \#1 | jueves 25 de agosto     | domingo 11 de septiembre
 Tarea \#2 | jueves 22 de septiembre | viernes 07 de octubre
 Tarea \#3 | jueves 27 de octubre    | viernes 11 de noviembre
 
