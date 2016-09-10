@@ -1,5 +1,7 @@
 # Actividad 2
 
+> Soluciones en carpeta [`Solucion`](./Solucion).
+
 A su equipo de desarrollo se le ha pedido una cotización para construir un sistema de comunicación entre personas.
 
 Algunos de los requisitos que se le ha pedido que considere son:
