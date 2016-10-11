@@ -77,14 +77,13 @@ El curso contará con controles (_C_) periódicos sobre los contenidos del curso
 
 ### Presentaciones
 
-Los alumnos del curso deberá realizar 2 presentaciones (_P_) sobre distintos temas relacionados con los contenidos del curso. Los temas a investigar serán anunciados con anticipación.
+Los alumnos del curso deberá realizar 1 presentación (_P_) sobre distintos temas relacionados con los contenidos del curso. Los temas a investigar serán anunciados con anticipación.
 
-Las presentaciones serán en horario de clases, en las siguientes fechas:
+Las presentaciones serán en horario de clases, en la siguiente fecha:
 
 Presentación     | ¿Cuándo?
 ---------------- | ----------------------
-Presentación \#1 | jueves 13 de octubre
-Presentación \#2 | martes 08 de noviembre
+Presentación | martes 08 de noviembre
 
 ### Tareas
 
@@ -93,7 +92,7 @@ El curso contará con 3 tareas (_T_) a lo largo del semestre. Las fechas de publ
 Tarea     | Publicación             | Entrega
 --------- | ----------------------- | ------------------------
 Tarea \#1 | jueves 25 de agosto     | domingo 11 de septiembre
-Tarea \#2 | jueves 22 de septiembre | viernes 07 de octubre
+Tarea \#2 | jueves 29 de septiembre | viernes 14 de octubre
 Tarea \#3 | jueves 27 de octubre    | viernes 11 de noviembre
 
 ### Interrogaciones
@@ -103,7 +102,7 @@ El curso contará con 2 interrogaciones (_I_) a lo largo del semestre. Estas ser
 Interrogación     | ¿Cuándo?
 ----------------- | -----------------------
 Interrogación \#1 | martes 13 de septiembre
-Interrogación \#2 | martes 18 de octubre
+Interrogación \#2 | martes 25 de octubre
 
 ### Examen
 
