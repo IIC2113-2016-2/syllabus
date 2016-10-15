@@ -75,15 +75,11 @@ Sebastián Salata | [@sasalatart] | [sasalata@uc.cl]
 
 El curso contará con controles (_C_) periódicos sobre los contenidos del curso y/o lecturas.
 
-### Presentaciones
+### Presentación
 
 Los alumnos del curso deberá realizar 1 presentación (_P_) sobre distintos temas relacionados con los contenidos del curso. Los temas a investigar serán anunciados con anticipación.
 
-Las presentaciones serán en horario de clases, en la siguiente fecha:
-
-Presentación     | ¿Cuándo?
----------------- | ----------------------
-Presentación | martes 08 de noviembre
+Las presentaciones serán en horario de clases, en la siguiente fecha: **martes 08 de noviembre**
 
 ### Tareas
 
@@ -92,7 +88,7 @@ El curso contará con 3 tareas (_T_) a lo largo del semestre. Las fechas de publ
 Tarea     | Publicación             | Entrega
 --------- | ----------------------- | ------------------------
 Tarea \#1 | jueves 25 de agosto     | domingo 11 de septiembre
-Tarea \#2 | jueves 29 de septiembre | viernes 14 de octubre
+Tarea \#2 | jueves 29 de septiembre | domingo 16 de octubre
 Tarea \#3 | jueves 27 de octubre    | viernes 11 de noviembre
 
 ### Interrogaciones
@@ -103,6 +99,10 @@ Interrogación     | ¿Cuándo?
 ----------------- | -----------------------
 Interrogación \#1 | martes 13 de septiembre
 Interrogación \#2 | martes 25 de octubre
+
+### Inasistencia Interrogación
+
+El examen se dividirá en 3 secciones con preguntas sobre los contenidos de la I1, I2 y examen. Además, contará con 2 preguntas opcionales sobre contenidos de la I1 o I2. Para reemplazar la nota de una (y sólo una) interrogación, se tendrá que responder la pregunta opcional del examen correspondiente a esa interrogación. Entonces, la nueva nota para la interrogación que se reemplaza sería el promedio simple entre la sección obligatoria y la opcional del examen, correspondientes a la interrogación que se quiere reemplazar. Esta alternativa se puede utilizar independientemente si faltaron o no a una prueba. Sin embargo, si responden la pregunta opcional para una interrogación en el examen, la nota se reemplazará de todas formas, a pesar de que el promedio sea mejor o peor que la nota anterior de la interrogación
 
 ### Examen
 
